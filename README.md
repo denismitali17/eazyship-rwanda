@@ -153,9 +153,7 @@ If everything works, **you're good to go!** 🎉
 - **NextAuth.js** – Secure authentication  
 - **PostgreSQL (via Supabase)** – Data storage  
 
-### **Deployment (Going Live)**  
-- **Vercel** – Fast hosting with automatic deployment  
-- **GitHub Actions** – Automated testing and deployment  
+
 
 ---
 
